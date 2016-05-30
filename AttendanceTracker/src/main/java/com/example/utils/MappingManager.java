@@ -93,5 +93,4 @@ public class MappingManager {
 		userrolemapping();
 		// mappedSuperclass();
 	}
-
 }
